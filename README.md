@@ -12,3 +12,6 @@ Artinya:
 - 5672 = port default utk koneksi AMQP
 
 Jadi, publisher dan subscriber memakai URL yg sama karena keduanya terhubung ke RabbitMQ yg sama utk saling kirim dan terima message.
+
+## Running RabbitMQ
+![Running RabbitMQ](Running_RabbitMQ.png)

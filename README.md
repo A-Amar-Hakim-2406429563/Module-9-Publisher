@@ -15,3 +15,6 @@ Jadi, publisher dan subscriber memakai URL yg sama karena keduanya terhubung ke 
 
 ## Running RabbitMQ
 ![Running RabbitMQ](Running_RabbitMQ.png)
+
+## Sending and processing event
+![alt text](Events.png)

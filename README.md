@@ -18,3 +18,6 @@ Jadi, publisher dan subscriber memakai URL yg sama karena keduanya terhubung ke 
 
 ## Sending and processing event
 ![alt text](Events.png)
+
+## Monitoring chart based on publisher
+![alt text](Monitoring.png)
